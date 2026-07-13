@@ -1,0 +1,6 @@
+{
+  "name": "Boutique Mode",
+  "description": "Une application mobile professionnelle d'e-commerce de vêtements haut de gamme avec interfaces client et administrateur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
